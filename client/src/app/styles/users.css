@@ -1,0 +1,10 @@
+/* Put your css in here */
+
+section {
+    min-height: 400px;
+}
+
+img {
+    min-width: 40px;
+    max-width: 100px;
+}
